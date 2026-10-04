@@ -1,0 +1,6 @@
+{
+  "name": "FlexiPulse Attendance & Mobile Clock-In System",
+  "description": "A flexible, user-friendly employee attendance system featuring mobile clock-in, GPS geofencing, photo verification, shift management, and real-time manager timesheet analytics.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
